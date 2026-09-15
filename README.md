@@ -2,4 +2,3 @@
 
 Learning Git push and pull.
 
-Today is my Day 2 and im learning how to use git push and pull!
